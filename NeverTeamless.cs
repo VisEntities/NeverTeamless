@@ -7,7 +7,7 @@ using UnityEngine;
 namespace Oxide.Plugins
 {
     [Info("Never Teamless", "Dana", "1.0.0")]
-    [Description("Automatically forms teams for any player without a team.")]
+    [Description("No one goes without a team, even if it's a team of one.")]
 
     public class NeverTeamless : RustPlugin
     {
